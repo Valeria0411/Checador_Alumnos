@@ -1,0 +1,49 @@
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\Checador Alumnos.exe.config
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\Checador Alumnos.exe
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\Checador Alumnos.pdb
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\AForge.Controls.dll
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\AForge.dll
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\AForge.Imaging.dll
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\AForge.Video.dll
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\AForge.Math.dll
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\AForge.xml
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\AForge.Controls.xml
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\AForge.Imaging.xml
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\AForge.Video.xml
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\AForge.Math.xml
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Debug\Checador Alumnos.csprojResolveAssemblyReference.cache
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Debug\Checador_Alumnos.Form1.resources
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Debug\Checador_Alumnos.Properties.Resources.resources
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Debug\Checador Alumnos.csproj.GenerateResource.Cache
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Debug\Checador Alumnos.exe
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Debug\Checador Alumnos.pdb
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Debug\Checador_Alumnos.Form2.resources
+c:\users\amy estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Debug\Checador_Alumnos.Form3.resources
+C:\Users\Amy Estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Amy Estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\zxing.dll
+C:\Users\Amy Estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Amy Estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Debug\Checador_Alumnos.Form4.resources
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\bin\Debug\Checador Alumnos.exe.config
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\obj\Debug\Checador Alumnos.exe
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\obj\Debug\Checador Alumnos.pdb
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\bin\Debug\Checador Alumnos.exe
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\bin\Debug\Checador Alumnos.pdb
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\bin\Debug\zxing.dll
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\bin\Debug\AForge.Math.dll
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\bin\Debug\AForge.xml
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\bin\Debug\AForge.Controls.xml
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\bin\Debug\AForge.Imaging.xml
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\bin\Debug\AForge.Video.xml
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\bin\Debug\AForge.Math.xml
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\obj\Debug\Checador Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\obj\Debug\Checador_Alumnos.Form1.resources
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\obj\Debug\Checador_Alumnos.Form2.resources
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\obj\Debug\Checador_Alumnos.Form3.resources
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\obj\Debug\Checador_Alumnos.Form4.resources
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\obj\Debug\Checador_Alumnos.Properties.Resources.resources
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\obj\Debug\Checador Alumnos.csproj.GenerateResource.Cache
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\bin\Debug\Checador Alumnos.exe.manifest
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\bin\Debug\Checador Alumnos.application
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\obj\Debug\Checador Alumnos.exe.manifest
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\INTERFACES\Checador Alumnos\obj\Debug\Checador Alumnos.application

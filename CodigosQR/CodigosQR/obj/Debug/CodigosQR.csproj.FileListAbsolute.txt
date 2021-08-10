@@ -1,0 +1,22 @@
+C:\Users\TEST\AppData\Local\Temporary Projects\CodigosQR\bin\Debug\CodigosQR.exe.config
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\CodigosQR\CodigosQR\bin\Debug\CodigosQR.exe.config
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\CodigosQR\CodigosQR\bin\Debug\CodigosQR.exe
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\CodigosQR\CodigosQR\bin\Debug\CodigosQR.pdb
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\CodigosQR\CodigosQR\bin\Debug\zxing.dll
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\CodigosQR\CodigosQR\obj\Debug\CodigosQR.csprojResolveAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\CodigosQR\CodigosQR\obj\Debug\CodigosQR.CodigosQR.resources
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\CodigosQR\CodigosQR\obj\Debug\CodigosQR.Properties.Resources.resources
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\CodigosQR\CodigosQR\obj\Debug\CodigosQR.csproj.GenerateResource.Cache
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\CodigosQR\CodigosQR\obj\Debug\CodigosQR.exe
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\CodigosQR\CodigosQR\obj\Debug\CodigosQR.pdb
+D:\Valeria respaldo\Respaldo\Proyectos VS\CodigosQR\CodigosQR\bin\Debug\CodigosQR.exe.config
+D:\Valeria respaldo\Respaldo\Proyectos VS\CodigosQR\CodigosQR\bin\Debug\CodigosQR.exe
+D:\Valeria respaldo\Respaldo\Proyectos VS\CodigosQR\CodigosQR\bin\Debug\CodigosQR.pdb
+D:\Valeria respaldo\Respaldo\Proyectos VS\CodigosQR\CodigosQR\obj\Debug\CodigosQR.csprojAssemblyReference.cache
+D:\Valeria respaldo\Respaldo\Proyectos VS\CodigosQR\CodigosQR\obj\Debug\CodigosQR.CodigosQR.resources
+D:\Valeria respaldo\Respaldo\Proyectos VS\CodigosQR\CodigosQR\obj\Debug\CodigosQR.Properties.Resources.resources
+D:\Valeria respaldo\Respaldo\Proyectos VS\CodigosQR\CodigosQR\obj\Debug\CodigosQR.csproj.GenerateResource.cache
+D:\Valeria respaldo\Respaldo\Proyectos VS\CodigosQR\CodigosQR\obj\Debug\CodigosQR.csproj.CoreCompileInputs.cache
+D:\Valeria respaldo\Respaldo\Proyectos VS\CodigosQR\CodigosQR\obj\Debug\CodigosQR.csproj.CopyComplete
+D:\Valeria respaldo\Respaldo\Proyectos VS\CodigosQR\CodigosQR\obj\Debug\CodigosQR.exe
+D:\Valeria respaldo\Respaldo\Proyectos VS\CodigosQR\CodigosQR\obj\Debug\CodigosQR.pdb

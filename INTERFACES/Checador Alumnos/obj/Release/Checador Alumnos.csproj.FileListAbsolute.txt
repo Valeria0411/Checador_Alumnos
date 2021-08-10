@@ -1,0 +1,7 @@
+C:\Users\Amy Estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\bin\Release\Checador Alumnos.exe.config
+C:\Users\Amy Estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Release\Checador Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\Amy Estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Release\Checador_Alumnos.Form1.resources
+C:\Users\Amy Estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Release\Checador_Alumnos.Form2.resources
+C:\Users\Amy Estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Release\Checador_Alumnos.Form3.resources
+C:\Users\Amy Estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Release\Checador_Alumnos.Properties.Resources.resources
+C:\Users\Amy Estefania\documents\visual studio 2015\Projects\Checador Alumnos\Checador Alumnos\obj\Release\Checador Alumnos.csproj.GenerateResource.Cache

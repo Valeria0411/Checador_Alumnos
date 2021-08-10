@@ -1,0 +1,14 @@
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazRegistroAlumnos\InterfazRegistroAlumnos\bin\Debug\InterfazRegistroAlumnos.exe.config
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazRegistroAlumnos\InterfazRegistroAlumnos\obj\Debug\InterfazRegistroAlumnos.exe
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazRegistroAlumnos\InterfazRegistroAlumnos\obj\Debug\InterfazRegistroAlumnos.pdb
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazRegistroAlumnos\InterfazRegistroAlumnos\obj\Debug\InterfazRegistroAlumnos.DatosAlumnos.resources
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazRegistroAlumnos\InterfazRegistroAlumnos\obj\Debug\InterfazRegistroAlumnos.Properties.Resources.resources
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazRegistroAlumnos\InterfazRegistroAlumnos\obj\Debug\InterfazRegistroAlumnos.csproj.GenerateResource.Cache
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazRegistroAlumnos\InterfazRegistroAlumnos\bin\Debug\InterfazRegistroAlumnos.exe
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazRegistroAlumnos\InterfazRegistroAlumnos\bin\Debug\InterfazRegistroAlumnos.pdb
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazRegistroAlumnos\InterfazRegistroAlumnos\bin\Debug\zxing.dll
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazRegistroAlumnos\InterfazRegistroAlumnos\obj\Debug\InterfazRegistroAlumnos.csprojResolveAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazRegistroAlumnos\InterfazRegistroAlumnos\bin\Debug\InterfazRegistroAlumnos.exe.manifest
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazRegistroAlumnos\InterfazRegistroAlumnos\bin\Debug\InterfazRegistroAlumnos.application
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazRegistroAlumnos\InterfazRegistroAlumnos\obj\Debug\InterfazRegistroAlumnos.exe.manifest
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazRegistroAlumnos\InterfazRegistroAlumnos\obj\Debug\InterfazRegistroAlumnos.application

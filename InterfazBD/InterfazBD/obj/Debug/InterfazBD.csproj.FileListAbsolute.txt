@@ -1,0 +1,6 @@
+C:\Users\TEST\AppData\Local\Temporary Projects\InterfazBD\bin\Debug\InterfazBD.exe.config
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazBD\InterfazBD\bin\Debug\InterfazBD.exe.config
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazBD\InterfazBD\obj\Debug\InterfazBD.csprojResolveAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazBD\InterfazBD\obj\Debug\InterfazBD.Form1.resources
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazBD\InterfazBD\obj\Debug\InterfazBD.Properties.Resources.resources
+C:\Users\TEST\Documents\Visual Studio 2015\Projects\InterfazBD\InterfazBD\obj\Debug\InterfazBD.csproj.GenerateResource.Cache
